@@ -351,8 +351,7 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      
       slides_url: "https://www.canva.com/design/DAG0qS-1a8Q/8RQgQYdgSC-TZseFLaGMaw/edit?utm_content=DAG0qS-1a8Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
       event_url: "https://www.linkedin.com/in/faisal-shaikh-374374223/"
     }
