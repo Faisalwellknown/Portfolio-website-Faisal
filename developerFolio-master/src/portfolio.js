@@ -338,7 +338,7 @@ const blogSection = {
       
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -356,7 +356,7 @@ const talkSection = {
       event_url: "https://www.linkedin.com/in/faisal-shaikh-374374223/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -369,7 +369,7 @@ const podcastSection = {
   podcast: [
     "https://www.linkedin.com/in/faisal-shaikh-374374223/"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Resume Section
@@ -385,7 +385,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91 9359899134",
+  
   email_address: "faisalshaikhikjf@gmail.com"
 };
 
