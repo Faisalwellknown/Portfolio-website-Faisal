@@ -3,6 +3,9 @@ This is the repository for my personal portfolio website, built with React. It s
 
 
 📸 Screenshot
+![alt text](<Screenshot 2025-10-06 052241.png>) ![alt text](<Screenshot 2025-10-06 052234.png>) ![alt text](<Screenshot 2025-10-06 052224.png>) ![alt text](<Screenshot 2025-10-06 052214.png>) ![alt text](<Screenshot 2025-10-06 052156.png>) ![alt text](<Screenshot 2025-10-06 052139.png>) ![alt text](<Screenshot 2025-10-06 052252.png>)![alt text](<Screenshot 2025-10-06 052356.png>) ![alt text](<Screenshot 2025-10-06 052408.png>)
+
+
 ✨ Features
 This portfolio is a single-page application with the following sections:
 
