@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website-Faisal/static/css/main.a46f655c.css",
+    "main.js": "/Portfolio-website-Faisal/static/js/main.2e4c146f.js",
+    "static/css/64.bba8fa55.chunk.css": "/Portfolio-website-Faisal/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/Portfolio-website-Faisal/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Portfolio-website-Faisal/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/Portfolio-website-Faisal/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Adobecirtificate.png": "/Portfolio-website-Faisal/static/media/Adobecirtificate.607a257d8c639c7842de.png",
+    "static/media/Androidindustrialcirtificate.png": "/Portfolio-website-Faisal/static/media/Androidindustrialcirtificate.983273bd2f7ebf041cab.png",
+    "static/media/Androidportfolieapp.png": "/Portfolio-website-Faisal/static/media/Androidportfolieapp.886f75124070446470f1.png",
+    "static/media/Data science Cirtificate.png": "/Portfolio-website-Faisal/static/media/Data science Cirtificate.86517b7a064129d35107.png",
+    "static/media/Montserrat-Regular.ttf": "/Portfolio-website-Faisal/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Joblanelogo.png": "/Portfolio-website-Faisal/static/media/Joblanelogo.84849ee93808618765a7.png",
+    "static/media/resume.pdf": "/Portfolio-website-Faisal/static/media/resume.a3331041a326777f1b0a.pdf",
+    "static/media/Ideathoncirtificate.png": "/Portfolio-website-Faisal/static/media/Ideathoncirtificate.7179d83c068101ec4a89.png",
+    "static/media/MITWPU.jpg": "/Portfolio-website-Faisal/static/media/MITWPU.0ce37694405bbffd537a.jpg",
+    "static/media/Krutaniclogo.jpg": "/Portfolio-website-Faisal/static/media/Krutaniclogo.69aa6dd49638ef515523.jpg",
+    "static/media/Agustina.woff": "/Portfolio-website-Faisal/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/Portfolio-website-Faisal/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Portfolio-website-Faisal/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Portfolio-website-Faisal/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/JKcollege.jpeg": "/Portfolio-website-Faisal/static/media/JKcollege.530ca6562cef80629381.jpeg",
+    "static/media/skill.svg": "/Portfolio-website-Faisal/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/Portfolio-website-Faisal/index.html",
+    "static/media/talksCardBack.svg": "/Portfolio-website-Faisal/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.a46f655c.css.map": "/Portfolio-website-Faisal/static/css/main.a46f655c.css.map",
+    "main.2e4c146f.js.map": "/Portfolio-website-Faisal/static/js/main.2e4c146f.js.map",
+    "64.bba8fa55.chunk.css.map": "/Portfolio-website-Faisal/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/Portfolio-website-Faisal/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Portfolio-website-Faisal/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/Portfolio-website-Faisal/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46f655c.css",
+    "static/js/main.2e4c146f.js"
+  ]
+}
